@@ -267,7 +267,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Google Looker Studio](https://lookerstudio.google.com) - Free reporting and dashboards that connect with Search Console, Analytics, and third party data.
 
 ## Google Search Console Enhancement Tools
-
+- [SEOTesting](https://seotesting.com) - SEO experimentation platform built on top of GSC data. Run time based tests and split tests to measure the actual impact of your changes on clicks and rankings. Content decay reports, keyword cannibalisation detection, CTR optimisation reports, content groups, and forecasting. Used by Shopify, Canva, and Intuit. Endorsed by Aleyda Solis.
 - [SEO Stack](https://www.seo-stack.io) - AI powered GSC replacement that warehouses up to 10 years of Search Console data with no row limits. Conversational AI for querying your data, query counting, click forecasting, NLP content auditing, and custom filters. 4,000+ SEO professionals use it.
 - [SEO Gets](https://seogets.com) - Surfaces 50k rows (vs GSC's 1k limit) with a unified dashboard across all properties. One click topic clustering, content groups, content decay heatmaps, cannibalisation reports, striking distance keywords, and SEO testing. Endorsed by Aleyda Solis, Kevin Indig, and Backlinko.
 
