@@ -1,4 +1,4 @@
-![Awesome SEO Tools](heading.png)
+![Awesome SEO Tools](heading.png?v=2)
 
 # Awesome SEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
