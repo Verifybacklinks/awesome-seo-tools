@@ -45,6 +45,8 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Mangools](https://mangools.com) - Five tools bundled together (KWFinder, SERPChecker, SERPWatcher, LinkMiner, SiteProfiler) with a clean interface. Great pick for freelancers and small businesses who want simplicity without sacrificing data.
 - [Seobility](https://www.seobility.net) - Started as a technical crawler and expanded into keywords, rank tracking, and backlink monitoring. User friendly, good data, and a generous free tier.
 - [Search Atlas](https://searchatlas.com) - AI powered platform with 60+ tools. OTTO SEO is their AI agent that handles technical fixes, content creation, and link building automatically. Also tracks LLM visibility and supports Google Business Profile optimisation.
+- [Dragon Metrics](https://www.dragonmetrics.com) - Built from the ground up for global and multilingual SEO. Tracks 11 search engines including Baidu and Naver, with deep China and Asia market support. Rank tracking, backlink analysis, site audits, keyword research, and white label reporting. Recently acquired by Semify.
+
 
 ## Keyword Research and Analysis
 
