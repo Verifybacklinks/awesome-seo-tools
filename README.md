@@ -25,13 +25,13 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEO Browser Extensions](#seo-browser-extensions)
 - [Log File Analysis](#log-file-analysis)
 - [SEO Automation and Workflows](#seo-automation-and-workflows)
+- [Reddit Marketing](#reddit-marketing)
 - [Reporting and Dashboards](#reporting-and-dashboards)
 - [WordPress SEO Plugins](#wordpress-seo-plugins)
 - [Free Google Tools](#free-google-tools)
 - [Google Search Console Enhancement Tools](#google-search-console-enhancement-tools)
 - [Documentation and Learning](#documentation-and-learning)
 - [Contributing](#contributing)
-
 ---
 
 ## All in One SEO Suites
