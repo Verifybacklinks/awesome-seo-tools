@@ -265,6 +265,11 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [DataForSEO](https://dataforseo.com) - The SEO data API behind many third party tools. SERP results, keyword data, backlink analytics, and rank tracking. Useful for building custom solutions and dashboards.
 - [SearchAPI.io](https://www.searchapi.io) - Real time SERP scraping API for Google, Bing, YouTube, and other search engines. Structured data output for custom tool building and monitoring.
 
+- ## Reddit Marketing
+
+- [Launch Club AI](https://launchclub.ai) - Reddit marketing agency and AI toolkit built by Ken Savage. Scans for high ranking Reddit threads with buyer intent, suggests where to join conversations authentically, and helps optimise for visibility in Google and AI search engines. Also offers managed product launches and a community of 2,700+ team members for outreach. Over 476 products launched.
+- [Redreach](https://redreach.ai) - AI powered Reddit lead generation and marketing tool. Monitors 100,000+ subreddits for high intent posts, tracks brand and competitor mentions with sentiment analysis, and generates contextual reply suggestions. Also includes a DM automation Chrome extension with anti detection features and a built in CRM for outreach tracking.
+
 ## Reporting and Dashboards
 
 - [Google Looker Studio](https://lookerstudio.google.com) - Free dashboard tool from Google. Plugs into Search Console, Analytics, and third party sources. The standard for client SEO reporting.
