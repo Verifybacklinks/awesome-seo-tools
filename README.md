@@ -119,6 +119,10 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## Backlink Analysis and Link Building
 
+### Pre-Index Backlink Audit Tools
+
+- [VerifyBacklinks](https://verifybacklinks.com) - Verifies backlink lists before search engines crawl or index them. Detects toxic, missing, and non-rendering links through live source validation and generates Excel, PDF, and disavow-ready outputs.
+
 ### Backlink Analysis Tools
 
 - [Ahrefs Site Explorer](https://ahrefs.com/site-explorer) - The biggest backlink database going. Breaks down any domain's backlink profile, referring domains, anchor text distribution, and link velocity.
